@@ -18,7 +18,7 @@ Analyze how discounts, product categories, and regional sales impact profitabili
 ---
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]: https://github.com/PREETHIRAVUL/E-Commerce-Profitability-Analysis-SQL-Python-Power-BI-/tree/main/Dashboards
 
 ---
 
